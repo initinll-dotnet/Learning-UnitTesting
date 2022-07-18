@@ -19,6 +19,12 @@ public class Calculator
 
     public float Divide(float a, float b)
     {
+        if (a == 0 && b == 0)
+            return 0;
+
+        if (a != 0 && b == 0)
+            throw new DivideByZeroException();
+
         return a / b;
     }
 }

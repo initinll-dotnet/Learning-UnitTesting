@@ -53,6 +53,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Users.Api.Tests.Unit.ApiLay
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdvancedTechniques", "5.AdvancedTechniques\src\AdvancedTechniques\AdvancedTechniques.csproj", "{2B00BDF0-7EF7-4750-AD53-61859C181AB5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorLibrary.Tests.Unit", "1.Fundamentals\test\CalculatorLibrary.Tests.Unit\CalculatorLibrary.Tests.Unit.csproj", "{561A8DCA-B04B-452F-9675-2472BCD02C88}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -95,6 +97,10 @@ Global
 		{2B00BDF0-7EF7-4750-AD53-61859C181AB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B00BDF0-7EF7-4750-AD53-61859C181AB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B00BDF0-7EF7-4750-AD53-61859C181AB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{561A8DCA-B04B-452F-9675-2472BCD02C88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{561A8DCA-B04B-452F-9675-2472BCD02C88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{561A8DCA-B04B-452F-9675-2472BCD02C88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{561A8DCA-B04B-452F-9675-2472BCD02C88}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -119,6 +125,7 @@ Global
 		{304C44CA-05F4-4523-A1DF-92EB96E85279} = {F72D78B4-518B-49FE-ADBD-50E3B74ED6FC}
 		{96600F42-BA48-41AC-B2DD-56B9B5564B87} = {F72D78B4-518B-49FE-ADBD-50E3B74ED6FC}
 		{2B00BDF0-7EF7-4750-AD53-61859C181AB5} = {074AE73C-4AD3-4CF3-8AB6-ADD9450436E8}
+		{561A8DCA-B04B-452F-9675-2472BCD02C88} = {9BE0B577-EFD4-475A-B4BE-8D2A7A7369E9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {51A68A4D-AD12-48D1-8649-DAEF12F7D778}
