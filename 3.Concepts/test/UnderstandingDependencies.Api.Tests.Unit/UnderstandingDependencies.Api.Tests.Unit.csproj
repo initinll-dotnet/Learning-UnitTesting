@@ -24,7 +24,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\3.Concepts\src\UnderstandingDependencies.Api\UnderstandingDependencies.Api.csproj" />
+    <ProjectReference Include="..\..\src\UnderstandingDependencies.Api\UnderstandingDependencies.Api.csproj" />
   </ItemGroup>
 
 </Project>
