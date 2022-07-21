@@ -1,8 +1,9 @@
 global using Xunit;
-global using NSubstitute;
 global using FluentAssertions;
-global using Microsoft.Data.Sqlite;
+global using NSubstitute;
+global using NSubstitute.ReturnsExtensions;
 global using NSubstitute.ExceptionExtensions;
+global using Microsoft.Data.Sqlite;
 
 global using Users.Api.Models;
 global using Users.Api.Logging;
